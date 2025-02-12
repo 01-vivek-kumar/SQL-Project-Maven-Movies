@@ -1,4 +1,7 @@
 # SQL Project: Maven Movies 
+![Project Logo](https://github.com/01-vivek-kumar/SQL-Project-Maven-Movies/blob/main/SQL%20Data%20Analysis%20Project%20%20Maven%20Movies.png)
+
+
 ## Project Overview
 
 **Project Title**: Maven Movies Analysis
